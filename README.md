@@ -15,7 +15,7 @@ This repository contains a Node.js program that sends manipulated packets to a s
 ## Usage
 
 1. In the terminal, navigate to the project directory.
-2. Run `node index.js` to start the program.
+2. Run `node index.mjs` to start the program.
 3. The program will run for 120 seconds, during which it will send manipulated packets to the IP address specified in the code.
 4. The program will log the number of packages sent every 1 millisecond.
 
