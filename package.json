@@ -1,0 +1,11 @@
+{
+  "name": "@davidpr0811/ddos-tool",
+  "version": "1.0.0",
+  "description": "This repository contains a Node.js program that sends manipulated packets to a specific IP address. The program uses the `net` module to create a TCP client that connects to the IP address and sends packets with a fake IP header size. The purpose of this program is for educational and experimental purposes only, and should not be used for any malicious activities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
